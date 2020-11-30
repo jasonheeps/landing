@@ -1,0 +1,19 @@
+.card {
+  height: 300px;
+  /*overflow: hidden;*/
+  width: 250px;
+  background-color: white;
+  margin: 0 48px;
+  padding: 36px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+}
+
+.card img {
+  /*width: 150px;*/
+  height: 120px;
+}
+
+.card p {
+  color: rgb(100,100,100);
+}

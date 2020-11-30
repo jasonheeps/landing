@@ -1,0 +1,38 @@
+.footer {
+  background-color: #556052;
+  margin-top: 36px;
+  height: 250px;
+}
+
+.list-inline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding-left: 0;
+  padding-top: 50px;
+}
+
+.footer li {
+  font-size: 36px;
+  padding-left: 0;
+  margin: 12px;
+  opacity: 0.7;
+  margin-bottom: 0;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #ff9a8c;
+  opacity: 0.8;
+}
+
+.footer a:hover {
+  opacity: 1;
+}
+
+.footer p {
+  margin-top: 0;
+  color: rgb(50,50,50);
+  font-size: 16px;
+}
